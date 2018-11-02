@@ -56,10 +56,10 @@
       <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy /s "$(ProjectDir)Debug\Irvine32FCIS.lib" "$(SolutionDir)\Project_Template" /Y
-xcopy /s "$(ProjectDir)Irvine32FCIS.inc" "$(SolutionDir)\Project_Template" /Y
+      <Command>xcopy /s "$(ProjectDir)Debug\Irvine32.lib" "$(SolutionDir)\Project_Template" /Y
+xcopy /s "$(ProjectDir)Irvine32.inc" "$(SolutionDir)\Project_Template" /Y
 
-xcopy /s "$(ProjectDir)Debug\Irvine32.lib" "$(SolutionDir)\Project_Template\Debug" /Y
+xcopy /s "$(ProjectDir)Debug\Irvine32.lib" "$(SolutionDir)Project_Template\Debug" /Y
 xcopy /s "$(ProjectDir)Irvine32.inc" "$(SolutionDir)\Project_Template\Debug" /Y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
