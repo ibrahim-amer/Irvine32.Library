@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project", "Project_Template\Project.vcxproj", "{4164AA65-1EF9-4E69-899B-D1BED776070B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Irvine32_Library", "Lib32\Irvine32_Library\Update_Irvine32_Library.vcxproj", "{7AC18828-7846-4CC2-837B-62BDFBF10CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4164AA65-1EF9-4E69-899B-D1BED776070B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4164AA65-1EF9-4E69-899B-D1BED776070B}.Debug|x86.Build.0 = Debug|Win32
+		{4164AA65-1EF9-4E69-899B-D1BED776070B}.Release|x86.ActiveCfg = Release|Win32
+		{4164AA65-1EF9-4E69-899B-D1BED776070B}.Release|x86.Build.0 = Release|Win32
+		{7AC18828-7846-4CC2-837B-62BDFBF10CE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7AC18828-7846-4CC2-837B-62BDFBF10CE9}.Debug|x86.Build.0 = Debug|Win32
+		{7AC18828-7846-4CC2-837B-62BDFBF10CE9}.Release|x86.ActiveCfg = Release|Win32
+		{7AC18828-7846-4CC2-837B-62BDFBF10CE9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBC7A91-024D-4543-A63E-865C7FDE33B3}
+	EndGlobalSection
+EndGlobal
