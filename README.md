@@ -16,3 +16,6 @@ After building/rebuilding Irvine32_Library project, a new .Lib file will be gene
 by
 
 KIP R. IRVINE Florida International University School of Computing and Information Sciences
+
+### Original Repository ###
+https://github.com/Eazybright/Irvine32
