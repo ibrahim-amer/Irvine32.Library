@@ -1,4 +1,4 @@
-# README #
+
 # Irvine32.Library 
 Irvine32 library for handling input-output and string handling in assembly language programming. 
 
